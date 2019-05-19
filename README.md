@@ -2,7 +2,7 @@
 
 Template server on Express.js
 
-## Install latest [Node](https://nodejs.org/en/)
+### Install latest [Node](https://nodejs.org/en/)
 
 ## Install and start MongoDB
 
